@@ -1,4 +1,5 @@
-## Tim Perisho 	(425) 387-0074	timothy.perisho@infospace.com	Seattle, WA
+## Tim Eccleston
+timothy.perisho.eccleston@gmail.com
 
 ---
 # Highlights
