@@ -1,45 +1,44 @@
 Timothy.Perisho.Eccleston@gmail.com	(425) 387-0074	Nashville, TN
 Highlights
-•	2 yrs. of data analysis experience (w/SQL, XL, PPT, Python, Gephi, R, and Tableau) at a meta-search company
-•	Reputation for translating between technical and business priorities to turn conflict into meaningful consensus
-•	3 years of independent study, research, and public speaking experience in mathematics and philosophy
-•	Proven ability to think critically, research best practices, self-teach, innovate, collaborate, and communicate
+•	Scrappy self-starter, certified in Data Science through BerkeleyX (using pySpark) w/ data mining experience
+•	2 yrs. of data analysis experience (w/ SQL, XL, PPT, Python, Gephi, R, and Tableau) supporting a data scientist
+•	Reputation for driving new technologies, thinking critically, and communicating well to all levels of the business
+•	3 yrs. of independent study, research, and public speaking experience in mathematics and philosophy
 
 Professional Experience
 Associate Data Analyst (Infospace/Blucora: January 2014 – April 2015)
-•	Consistently chosen to pilot new technologies, projects, and technical relationships (before/after acquisition)
-•	Designed and oversaw tests of eContext’s Keyword and Content Classifiers
-•	Gave test results & contract/acquisition recommendations in a 2-hour presentation to the President with questions
-•	Frequently read source code and documentation, discussed algorithm improvements with leads, and wrote specs.
+•	Supported our data scientist by conducting ad hoc analyses, proof of concepts, and researching new technologies
+•	Won “Spark” award for algorithm development in my keyword re-categorization study (data mining)
 •	Attended 2 Big Data conferences and collaborated to design and run our team’s first Hadoop project (AWS EMR)
-•	Won peer-nominated “Spark” award for on-going algorithm development in my keyword re-categorization study
+•	Maintained technical relationships w/ other companies (HowStuffWorks, eContext / Zenya) in acquiring process
+•	Designed and oversaw tests of eContext’s Keyword and Content Classifiers & gave 2 hr. presentation to President
+•	Frequently read source code and documentation, discussed algorithm improvements with leads, and wrote specs.
 Intern Big Data Analyst (Infospace/Blucora: August 2013 – December 2013)
-•	Conducted a pilot study re-categorizing our keyword library using SNA clustering techniques (Gephi)
-•	Won peer-nominated “Blaze” award for finding a year-old bug in our UX A/B testing platform
+•	Conducted a pilot study of SNA/graph clustering techniques on our keyword library (data mining, Gephi)
+•	Won “Blaze” award for finding a year-old bug in our UX A/B testing platform
 •	Built, tested, and maintained ETL process to give the company actionable device revenue data (XL, SQL)
 •	Used R and Python to run clustering algorithms and perform standard and customized statistical calculations
-•	Regularly manipulated and pulled data with SQL: from IBM Netezza Machine & from the cloud (AWS Redshift)
+•	Wrote advanced SQL queries to our IBM Netezza Machine & from the cloud (AWS Redshift)
 Library Access Services Supervisor (Seattle Pacific University: June 2011-August 2013)
-•	Promoted from Assistant to Supervisor
-•	Trained and supervised 4 student workers to complete 133.7% more inventory per week than previous summer
+•	Promoted from Assistant to Supervisor, trained 4 student workers, and increased productivity by 1.33% YOY
 
 Education	2300 SAT	85th percentile	(nation-wide) ETS Math Major Field Test
 B.S. Mathematics (3.69)  	
 B.A. Philosophy (3.63) from Seattle Pacific University; Seattle, Washington (June 2013)
 
 Relevant Coursework:
-
-•	Graph Theory
+•	•	Graph Theory
 •	Programming (C++)
 •	Prob. & Statistics (R)
 •	Math Modeling (Maple)
-
 
 Awards & Activities:
 •	Who’s Who Among Students in American Universities & Colleges
 •	Study abroad at the University of Oxford, England
 •	University Scholars (4-year Honors Program Cohort)
 •	Trustees’ Scholar Award
+Big Data XSeries Certificate from BerkeleyX (June – August 2015)
+•	Courses in Data Mining, Analysis, & Machine Learning using pySpark (i.e. Python Spark, the “new” Hadoop)
 
 Mathematics Experience
 Independent Senior Project Researcher in Mathematics (Seattle Pacific University 2013)
