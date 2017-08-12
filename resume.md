@@ -14,8 +14,13 @@
 -	Consistently chosen to pilot new technologies, projects, and technical relationships (before/after acquisition)
 -	Designed and oversaw tests of eContext’s Keyword and Content Classifiers
 -	Gave test results & contract/acquisition recommendations in a 2-hour presentation to the President with questions
+-	Built trust and advocated for eContext’s VP of Operations and HSW’s GM and execs after acquisition
 -	Frequently read source code and documentation, discussed algorithm improvements with leads, and wrote specs.
 -	Attended 2 Big Data conferences and collaborated to design and run our team’s first Hadoop project (AWS EMR)
+-	Manipulated and pulled data from an IBM Netezza Machine and then the cloud (AWS Redshift) using SQL
+-	Used Gephi for network analysis and to develop on-going clustering algorithms to reduce data points
+-	Used R and Python to run clustering algorithms and perform standard and customized statistical calculations
+-	Built, tested, and maintained ETL process in SQL to give the company actionable device revenue data
 -	Won peer-nominated “Spark” award for on-going algorithm development in my keyword re-categorization study
 
 ## Intern Big Data Analyst (Infospace/Blucora: August 2013 – December 2013)
@@ -40,6 +45,7 @@ B.A. Philosophy (3.63) from Seattle Pacific University; Seattle, Washington (Jun
 -	Graph Theory
 -	Programming (C++)
 -	Prob. & Statistics (R)
+-	Linear Algebra
 -	Math Modeling (Maple)
 
 ## Awards & Activities:
