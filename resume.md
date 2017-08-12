@@ -1,4 +1,4 @@
-## **Timothy** (Perisho) **Eccleston**
+## Timothy (Perisho) Eccleston
 
 ---
 # Highlights
