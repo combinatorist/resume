@@ -1,4 +1,4 @@
-## Timothy.Perisho.Eccleston@gmail.com	(425) 387-0074	Nashville, TN
+## **Timothy** (Perisho) **Eccleston**
 
 ---
 # Highlights
