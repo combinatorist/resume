@@ -2,8 +2,8 @@
 
 ---
 # Highlights
-- Scrappy self-starter, certified in Data Science through BerkeleyX (using pySpark) w/ data mining experience
-- 2 yrs. of data analysis experience (w/ SQL, XL, PPT, Python, Gephi, R, and Tableau) supporting a data scientist
+- Thoughtful and deliberate "serverless" Data & Backend Developer always using the right tool for the job
+- 3 yrs. of Data Science & Analysis experience (w/ SQL, Python, Spark, Scala, R)
 - Reputation for driving new technologies, thinking critically, and communicating well to all levels of the business
 - 3 yrs. of independent study, research, and public speaking experience in mathematics and philosophy
 
