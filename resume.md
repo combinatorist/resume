@@ -9,6 +9,49 @@
 
 ---
 # Professional Experience
+## Data Integration Developer
+(AxialHealthcare: March 2017 - Present)
+- Switched to new Data Integration & Management team under new Enterprise Data Architect
+- Pioneered "Code as Architecture" (Terraform) on DIM team
+- Pioneered "Serverless Architecture" (AWS API Gateway, Lambda Functions, DynamoDB) at Axial
+- Helped plan essential tooling to support Data Lake Architecture (AWS S3)
+- Built terraform-deployable "Serverless" API to manage metadata for Data Lake
+- Began study for AWS Solutions Associate Certificate
+- Attended AWS RE:Invent Conference 2017
+- Started remodeling extensible version of our "Core Analytics" (Spark Scala on AWS EMR)
+
+## Junior Data Scientist
+(AxialHealthcare: September 2015 - February 2017)
+- Hired to do Data Science in early stages of startup (employee \#16)
+- Found Data Scientists manually delivering results directly to clients with large, disorganized repository of ad hoc SQL queries
+- Determined greatest need was actually starting SDLC, and automating / productionalizing code base
+- Fixed over 40 (often intricate) analytical / healthcare data quality bugs
+- Completed over 100 analytical, design, and process improvements
+- As _de facto_ Technical Lead (data & software):
+  - Immediately built tools to parse, plan, and automate arbitrary GBQ SQL queries (Python, Celery)
+  - Helped negotiate data formats with clients until we hired dedicated resources
+  - Advocated, trained, and consulted for team on git, Python,  SDLC, Scrum, statistics, SQL, and RDB design
+  - Insisted on better documentation, process, and accountability at all levels
+  - Documented many concepts, processes, requirements, decisions, and training materials
+  - Began productionalization of "Core Analytics" code base for regular, predictable delivery to client
+  - Planned & implemented many system-wide code improvements to statistics, standardization, and usability
+  - Earned ownership to define SDLC, test, and vet changes to "Core" code
+  - Split "Core" well-tested IP calculations from quickly changing, relatively superficial reporting OLAP code
+  - Defined releases and reported methodological / analytical impact to President and leadership
+  - Planned major database / process redesigns, creating simplified API layer
+  - Analyzed risk and scope of switching from GBQ to AWS Redshift or Postgres
+  - Planned and reviewed internal solutions from ETL and App teams
+  - Requested, helped define, and interviewed Data QA resource for critical and complex "Core" code
+- As Data Scientist:
+  - Advised Product team on statistical aspects of UI
+  - Helped negotiate short and long term improvements to "Core" metric definitions etc
+  - Researched and developed our "RISE" product MVP
+  - Helped interview Data Scientists - prepared and conducted technical portions (SQL & Python)
+  - Created Data Science Roadmap to build from basic data collection up to ML
+  - Worked with pharmacist on early research into predicting Opioid Overdoses
+
+## Personal Break
+(Marriage, honeymoon, and moving: May 2015 - August 2015)
 
 ## Associate Data Analyst
 (Infospace/Blucora: January 2014 – April 2015)
