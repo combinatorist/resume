@@ -24,22 +24,22 @@
 ## Junior Data Scientist
 (AxialHealthcare: September 2015 - February 2017)
 - Hired to do Data Science in early stages of startup (employee \#10)
-- Found over-worked Data Scientists manually delivering results directly to clients with large, disorganized repository of ad hoc SQL queries
+- Found over-worked Data Scientists manually delivering ad hoc SQL results directly to clients
 - Determined greatest need was SDLC, not Data Science
-- Fixed over 40 (often intricate) analytical / healthcare data quality bugs
-- Completed over 100 analytical, design, and process improvements
-- Acted as _de facto_ Data Science Engineer / Technical Lead:
-  - Took initiative and single-handedly built tools to parse, plan, and automate arbitrary GBQ SQL queries into workflows (Python, Celery)
-  - Advocated, demonstrated, and trained in Git, Python, SDLC, QA, Scrum, Statistics, SQL, and RDB design for team
-  - Earned ownership and began productionalization of "Core Analytics" engine (axialInsight) to stabilize client deliveries
+  - Fixed over 40 (often intricate) analytical / healthcare data quality bugs
+  - Completed over 100 analytical, design, and process improvements
+As Data Science Engineer / Technical Lead:
+  - Conceived & built tools to parse, plan, and run arbitrary SQL queries en masse (Python, Celery)
+  - Advocated, demonstrated, and trained in Git, Python, SDLC, SQL, and RDB design for team
+  - Earned ownership and began productionalization of "Core Analytics" engine (axialInsight)
   - Defined releases and reported methodological / analytical impact to President and leadership
   - Planned major "Core Analytics" engine redesign, creating simplified API layer
   - Analyzed risk and scope of switching from GBQ to AWS Redshift, Postgres, or Apache Spark
-- Acted as Data Scientist:
+  - Prepared and conducted technical interviews for Data Science & QA (SQL & Python)
+As Data Scientist:
   - Advised Product team on statistical aspects of web UI
-  - Helped negotiate short and long term improvements to our "Core Analytics" metric definitions etc
+  - Helped negotiate short and long term improvements to our "Core Analytics" metrics
   - Researched and developed backend analytics for our "axialRISE" product MVP
-  - Prepared and conducted technical interviews for Data Science (SQL & Python)
   - Created Data Science Roadmap to build from basic data collection up to Machine Learning
   - Worked with pharmacist on early research into predicting Opioid Overdoses
 
