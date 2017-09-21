@@ -12,12 +12,12 @@
 ## Data Integration Developer
 (AxialHealthcare: March 2017 - Present)
 - Switched to new Data Integration & Management team under new Enterprise Data Architect
-- Maintained ownership for "Core Analytics" codebase
-- Started rebuilding "Core Analytics" Spark Scala on AWS EMR (via Terraform) for quality, efficiency, and extensibility
+- Maintained ownership for "Core Analytics" engine
+- Started rebuilding and optimizing "Core Analytics" with Spark Scala on AWS EMR (via Terraform)
 - Pioneered "Code as Infrastructure" (Terraform) on DIM team
 - Pioneered "Serverless Architecture" (AWS API Gateway, Lambda Functions, DynamoDB) at Axial
 - Helped plan essential tooling to support Data Lake Architecture (AWS S3)
-- Built terraform-deployable "Serverless" API to manage metadata for Data Lake
+- Built Terraform-deployable serverless API / backend to manage metadata for Data Lake
 - Began study for AWS Solutions Associate Certificate
 - Attended AWS RE:Invent Conference 2017
 
