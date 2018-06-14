@@ -70,6 +70,31 @@ As Data Scientist:
 - Promoted from Assistant to Supervisor, trained 4 student workers, and increased productivity 2.3x YOY
 
 ---
+# Vounteer Experience
+## Community Outreach & Diversity Lead
+(Code for Nashville: June 2018-Present)
+- Helping define this new role for the organization
+- Serving to make sure our community of civic hackers is "open", not just technically but also socially
+
+## Coder / Collaborator
+(Code for Nashville: January 2017-May 2018)
+- Volunteered at the Code for Nashville chapter of the Code for America Brigade
+- Helped us move our apps to a serverless architecture with Terraform on AWS to reduce maintenance and cost
+- Helped initiate, vision, and negotiate reorganization and revitalization, which led to formation of new roles (above)
+
+## Court Appointed Special Advocate
+(CASA of Nashville: October 2015-Present)
+
+- CASA (Court Appointed Special Advocates) gets high-risk neglect / abuse cases triaged from juvenile court.
+- Then, the organization (usually county level) matches 1 volunteer to each case / family.
+- The court gives the volunteer access to all records for the child to mentor, monitor, and support them.
+- The court solicits our official recommendation about the child's best interest for a permanent placement.
+- Our presence often leads to greater accountability over the many fragmented organizations that serve the family.
+
+## Various Math & Science Tutoring Roles
+(Seattle: through April 2015)
+
+---
 # Education
 2300 SAT & 85th percentile (nation-wide) ETS Math Major Field Test
 
