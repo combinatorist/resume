@@ -2,22 +2,24 @@
 
 ---
 # Highlights
-- Thoughtful and deliberate "serverless" Data & Backend Developer always looking for the right tool for the job
-- 3 yrs. of Data Science & Analysis experience (w/ SQL, Python, Spark, Scala, R)
+- Independent, innovative and influential Data Engineer (also Data Science, Analysis, & "serverless" backends)
 - Reputation for driving new technologies, thinking critically, and communicating well to all levels of the business
+- 3 yrs. of Big Data Engineering experience (w/ Spark, Scala, Presto/Hive SQL, AWS EMR)
+- 3 yrs. of Data Science & Analysis experience (w/ SQL, Python, Spark, Scala, R)
 - 3 yrs. of independent study, research, and public speaking experience in mathematics and philosophy
 
 ---
 # Professional Experience
-## Data Integration Developer
+## "Data Integration Developer" (Data Engineer)
 (AxialHealthcare: March 2017 - Present)
-- Switched to new Data Integration & Management team under new Enterprise Data Architect
-- Maintained ownership for "Core Analytics" engine
-- Started rebuilding and optimizing "Core Analytics" with Spark Scala on AWS EMR (via Terraform)
-- Pioneered "Code as Infrastructure" (Terraform) on DIM team
+- Switched to Data Architecture Team started by new Enterprise Data Architect
+- Maintained code ownership for 'axialInsight' product, formerly called "Core Analytics" engine
+- Rebuilt and optimized axialInsight with Spark Scala on AWS EMR (migrated from Google Big Query)
+- Pioneered "Code as Infrastructure" (Terraform) on Data Architecture team
 - Pioneered "Serverless Architecture" (AWS API Gateway, Lambda Functions, DynamoDB) at Axial
-- Helped plan essential tooling to support Data Lake Architecture (AWS S3)
 - Built Terraform-deployable serverless API / backend to manage metadata for Data Lake
+- Influenced many cross-functional, design, data architecture, and SDLC meetings and decisions
+- Reported code changes and impact to business and SOC
 - Began study for AWS Solutions Associate Certificate
 - Attended AWS RE:Invent Conference 2017
 
