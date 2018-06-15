@@ -30,7 +30,8 @@
 - Determined greatest need was SDLC, not Data Science
   - Fixed over 40 (often intricate) analytical / healthcare data quality bugs
   - Completed over 100 analytical, design, and process improvements
-As Data Science Engineer / Technical Lead:
+
+### As Data Science Engineer / Technical Lead:
   - Conceived & built tools to parse, plan, and run arbitrary SQL queries en masse (Python, Celery)
   - Advocated, demonstrated, and trained in Git, Python, SDLC, SQL, and RDB design for team
   - Earned ownership and began productionalization of "Core Analytics" engine (axialInsight)
@@ -38,7 +39,8 @@ As Data Science Engineer / Technical Lead:
   - Planned major "Core Analytics" engine redesign, creating simplified API layer
   - Analyzed risk and scope of switching from GBQ to AWS Redshift, Postgres, or Apache Spark
   - Prepared and conducted technical interviews for Data Science & QA (SQL & Python)
-As Data Scientist:
+
+### As Data Scientist:
   - Advised Product team on statistical aspects of web UI
   - Helped negotiate short and long term improvements to our "Core Analytics" metrics
   - Researched and developed backend analytics for our "axialRISE" product MVP
