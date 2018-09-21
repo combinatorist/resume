@@ -45,21 +45,21 @@
   - Completed over 100 analytical, design, and process improvements
 
 ### Acting as Data Science Engineer / Technical Lead
-  - Conceived & built tools to parse, plan, and run arbitrary SQL queries en masse (Python, Celery, Redis (cf. Kafka), RegEx)
-  - Advocated, demonstrated, and trained in Git, Python, SDLC, SQL, and RDB design for team
-  - Earned ownership and began productionalization of "Core Analytics" engine (axialInsight)
-  - Maintained Continuous Integration test suite in Jenkins
-  - Defined releases and reported methodological / analytical impact to President and leadership
-  - Planned major "Core Analytics" engine redesign, creating simplified API layer
-  - Analyzed risk and scope of switching from GBQ to AWS Redshift, Postgres, or Apache Spark
-  - Prepared and conducted technical interviews for Data Science & QA (SQL & Python)
+- Conceived & built tools to parse, plan, and run arbitrary SQL queries en masse (Python, Celery, Redis (cf. Kafka), RegEx)
+- Advocated, demonstrated, and trained in Git, Python, SDLC, SQL, and RDB design for team
+- Earned ownership and began productionalization of "Core Analytics" engine (axialInsight)
+- Maintained Continuous Integration test suite in Jenkins
+- Defined releases and reported methodological / analytical impact to President and leadership
+- Planned major "Core Analytics" engine redesign, creating simplified API layer
+- Analyzed risk and scope of switching from GBQ to AWS Redshift, Postgres, or Apache Spark
+- Prepared and conducted technical interviews for Data Science & QA (SQL & Python)
 
 ### Acting as Data Scientist
-  - Advised Product team on statistical aspects of web UI
-  - Helped negotiate short and long term improvements to our "Core Analytics" metrics
-  - Researched and developed backend analytics for our "axialRISE" product MVP
-  - Created Data Science Roadmap to build from basic data collection up to Machine Learning
-  - Worked with a pharmacist expert on predictive Opioid Overdose Model
+- Advised Product team on statistical aspects of web UI
+- Helped negotiate short and long term improvements to our "Core Analytics" metrics
+- Researched and developed backend analytics for our "axialRISE" product MVP
+- Created Data Science Roadmap to build from basic data collection up to Machine Learning
+- Worked with a pharmacist expert on predictive Opioid Overdose Model
 
 ## Personal Break
 (Marriage, honeymoon, and moving: May 2015 - August 2015)
