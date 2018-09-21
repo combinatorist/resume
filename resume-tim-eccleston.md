@@ -15,7 +15,7 @@
 - 3 yrs. of independent study, research, and public speaking experience in mathematics and analytic philosophy
 ---
 # Professional Experience
-## "Data Integration Developer" (Data Engineer)
+## Data Engineer ("Data Integration Developer")
 (AxialHealthcare: March 2017 - Present)
 - Switched to Data Architecture Team started by new Enterprise Data Architect
 - Maintained code ownership for 'axialInsight' product, formerly called "Core Analytics" engine
@@ -28,7 +28,7 @@
 - Began study for AWS Solutions Associate Certificate
 - Attended AWS RE:Invent Conference 2017
 
-## Junior Data Scientist
+## Data Scientist
 (AxialHealthcare: September 2015 - February 2017)
 - Hired to do Data Science in early stages of startup (employee \#10)
 - Found over-worked Data Scientists manually delivering ad hoc SQL results directly to clients
@@ -141,7 +141,7 @@ from Seattle Pacific University; Seattle, Washington (June 2013)
 - Tested my algorithm against randomly-generated obstacles (Maple)
 - Revised my algorithm with increasingly realistic assumptions and presented results to my class
 
-## Team-Participant in the Mathematical Contest in Modeling
+## Co-Author in the Mathematical Contest in Modeling
 (COMAP: 2013)
 - Collaborated with 2 team-members in an international math competition on a 72 hour deadline
 - Mathematically modeled, projected, and optimized a system for cleaning and allocating Russia’s water resources
