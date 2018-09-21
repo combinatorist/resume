@@ -7,7 +7,6 @@
 - 3 yrs. of Big Data Engineering experience (w/ Spark, Scala, Presto/Hive SQL, AWS EMR)
 - 3 yrs. of Data Science & Analysis experience (w/ SQL, Python, Spark, Scala, R)
 - 3 yrs. of independent study, research, and public speaking experience in mathematics and analytic philosophy
-
 ---
 # Professional Experience
 ## "Data Integration Developer" (Data Engineer)
@@ -68,7 +67,6 @@ As Data Scientist:
 ## Library Access Services Supervisor
 (Seattle Pacific University: June 2011-August 2013)
 - Promoted from Assistant to Supervisor, trained 4 student workers, and increased productivity 2.3x YOY
-
 ---
 # Vounteer Experience
 ## Community Outreach & Diversity Lead
@@ -118,7 +116,6 @@ from Seattle Pacific University; Seattle, Washington (June 2013)
 ## Big Data XSeries Certificate
 (BerkeleyX: June – August 2015)
 - Courses in Data Mining, Analysis, & Machine Learning using pySpark (i.e. Python Spark, the “new” Hadoop)
-
 ---
 # Mathematics Experience
 ## Independent Senior Project Researcher in Mathematics
@@ -141,7 +138,6 @@ from Seattle Pacific University; Seattle, Washington (June 2013)
 - Collaborated with 2 team-members in an international math competition on a 72 hour deadline
 - Mathematically modeled, projected, and optimized a system for cleaning and allocating Russia’s water resources
 - Programmed simulations (MATLAB & Maple), wrote 16-page technical report, & presented at a conference
-
 ---
 # Additional Writing and Presentation Experience
 Analytic Philosophy Author and Presenter at 4 Undergraduate Research Conferences (1 publication, 1 award)
