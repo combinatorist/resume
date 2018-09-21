@@ -9,9 +9,10 @@
 ---
 # Highlights
 - Independent, innovative, and influential Data Engineer (also Data Science, Analysis, & "serverless" Cloud)
+- A technical leader, mentor, and organizer (Code for Nashville Lead; training, and consulting for coworkers)
 - Reputation for driving new technologies, thinking critically, and communicating well to all levels of the business
-- 3 yrs. of Big Data Engineering experience (w/ Spark, Scala, Presto/Hive SQL, AWS EMR)
-- 3 yrs. of Data Science & Analysis experience (w/ SQL, Python, Spark, Scala, R)
+- 4 yrs. of Big Data Engineering experience (Spark, Scala, Python, AWS EMR, DynamoDB, Presto, Hive, Impala, YARN, Linux)
+- 4 yrs. of Data Science & Analysis experience (SQL, Python, Spark, Scala, R, Jupyter)
 - 3 yrs. of independent study, research, and public speaking experience in mathematics and analytic philosophy
 ---
 # Professional Experience
@@ -19,27 +20,35 @@
 (AxialHealthcare: March 2017 - Present)
 - Switched to Data Architecture Team started by new Enterprise Data Architect
 - Maintained code ownership for 'axialInsight' product, formerly called "Core Analytics" engine
-- Rebuilt and optimized axialInsight with Spark Scala on AWS EMR (migrated from Google Big Query)
+- Designed, rebuilt, and optimized axialInsight with Spark Scala on AWS EMR (migrated from Google Big Query)
+- Designed, built, documented, and trained others in novel time interval libraries for accuracy and performance
+- Piloted use of Scala Build Tool (cf. Maven, Ant)
+- Frequently consulted for and mentored across teams on Hadoop, Git, SDLC, Database / Data Pipeline design, etc
+- Frequently discussed compatibility and integration of our Hadoop-based apps with traditional apps
+- Regularly given projects to pilot / test new technologies
 - Pioneered "Code as Infrastructure" (Terraform) on Data Architecture team
 - Pioneered "Serverless Architecture" (AWS API Gateway, Lambda Functions, DynamoDB) at Axial
-- Built Terraform-deployable serverless API / backend to manage metadata for Data Lake
+- Designed serverless RESTful JSON backend API to manage metadata for Data Lake in NoSql store DynamoDB (cf. Cassandra)
 - Influenced many cross-functional, design, data architecture, and SDLC meetings and decisions
 - Reported code changes and impact to business and SOC
 - Began study for AWS Solutions Associate Certificate
 - Attended AWS RE:Invent Conference 2017
+- Began advanced tech evaluation and design work on a conversion to Apache Spark Streaming, Beam, or Flink
 
 ## Data Scientist
 (AxialHealthcare: September 2015 - February 2017)
-- Hired to do Data Science in early stages of startup (employee \#10)
+- Hired to do Data Science in early stages of Healthcare startup (employee \#10)
+- Worked with patient and practitioner data as well as medical and pharmacy claims
 - Found over-worked Data Scientists manually delivering ad hoc SQL results directly to clients
 - Determined greatest need was SDLC, not Data Science
   - Fixed over 40 (often intricate) analytical / healthcare data quality bugs
   - Completed over 100 analytical, design, and process improvements
 
 ### Acting as Data Science Engineer / Technical Lead
-  - Conceived & built tools to parse, plan, and run arbitrary SQL queries en masse (Python, Celery)
+  - Conceived & built tools to parse, plan, and run arbitrary SQL queries en masse (Python, Celery, Redis (cf. Kafka), RegEx)
   - Advocated, demonstrated, and trained in Git, Python, SDLC, SQL, and RDB design for team
   - Earned ownership and began productionalization of "Core Analytics" engine (axialInsight)
+  - Maintained Continuous Integration test suite in Jenkins
   - Defined releases and reported methodological / analytical impact to President and leadership
   - Planned major "Core Analytics" engine redesign, creating simplified API layer
   - Analyzed risk and scope of switching from GBQ to AWS Redshift, Postgres, or Apache Spark
@@ -50,7 +59,7 @@
   - Helped negotiate short and long term improvements to our "Core Analytics" metrics
   - Researched and developed backend analytics for our "axialRISE" product MVP
   - Created Data Science Roadmap to build from basic data collection up to Machine Learning
-  - Worked with pharmacist on early research into predicting Opioid Overdoses
+  - Worked with a pharmacist expert on predictive Opioid Overdose Model
 
 ## Personal Break
 (Marriage, honeymoon, and moving: May 2015 - August 2015)
@@ -58,7 +67,7 @@
 ## Associate Data Analyst
 (Infospace/Blucora: January 2014 – April 2015)
 - Supported our data scientist by conducting ad hoc analyses, proof of concepts, and researching new technologies
-- Won “Spark” award for algorithm development in my keyword re-categorization study (data mining / clustering)
+- Won “Spark” award for NLP algorithm development in my keyword re-categorization study (data mining / clustering)
 - Attended 2 Big Data conferences and collaborated to design and run our team’s first Hadoop project (AWS EMR)
 - Maintained technical relationships w/ other companies (HowStuffWorks, eContext / Zenya) in acquiring process
 - Designed and oversaw tests of eContext’s Keyword and Content Classifiers & gave 2 hr. presentation to President
@@ -79,8 +88,10 @@
 # Volunteer Experience
 ## Community Outreach & Diversity Lead
 (Code for Nashville: June 2018-Present)
-- Helping define this new role for the organization
+- Helping define the organization's future as well as this new role
 - Serving to make sure our community of civic hackers is "open", not just technically but also socially
+- Negotiating and defining new projects with outside community partners
+- Mentoring and advising volunteer project leads on technical direction and team management
 
 ## Coder / Collaborator
 (Code for Nashville: January 2017-May 2018)
@@ -99,6 +110,7 @@
 
 ## Various Math & Science Tutoring Roles
 (Seattle: January 2008 - April 2015)
+- Paid tutoring with high school and college and volunteer work with elementary and high school students
 
 ---
 # Education
@@ -137,7 +149,7 @@ from Seattle Pacific University; Seattle, Washington (June 2013)
 ## Individual Researcher in Mathematical Modeling
 (Seattle Pacific University: Winter 2013)
 - Researched “potential fields” method for robotic path-planning
-- Wrote my own path-planning algorithm from scratch with visual simulation & output in Maple (a math software)
+- Wrote my own path-planning algorithm from scratch with visual simulation & output in Maple (similar to Mathematica)
 - Tested my algorithm against randomly-generated obstacles (Maple)
 - Revised my algorithm with increasingly realistic assumptions and presented results to my class
 
