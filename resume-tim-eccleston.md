@@ -6,7 +6,7 @@
 - Reputation for driving new technologies, thinking critically, and communicating well to all levels of the business
 - 3 yrs. of Big Data Engineering experience (w/ Spark, Scala, Presto/Hive SQL, AWS EMR)
 - 3 yrs. of Data Science & Analysis experience (w/ SQL, Python, Spark, Scala, R)
-- 3 yrs. of independent study, research, and public speaking experience in mathematics and philosophy
+- 3 yrs. of independent study, research, and public speaking experience in mathematics and analytic philosophy
 
 ---
 # Professional Experience
@@ -99,7 +99,8 @@ As Data Scientist:
 2300 SAT & 85th percentile (nation-wide) ETS Math Major Field Test
 
 B.S. Mathematics (3.69)  	
-B.A. Philosophy (3.63) from Seattle Pacific University; Seattle, Washington (June 2013)
+B.A. Analytic Philosophy (3.63)
+from Seattle Pacific University; Seattle, Washington (June 2013)
 
 ## Relevant Coursework:
 - Graph Theory
@@ -143,4 +144,4 @@ B.A. Philosophy (3.63) from Seattle Pacific University; Seattle, Washington (Jun
 
 ---
 # Additional Writing and Presentation Experience
-Philosophy Author and Presenter at 4 Undergraduate Research Conferences (1 publication, 1 award)
+Analytic Philosophy Author and Presenter at 4 Undergraduate Research Conferences (1 publication, 1 award)
