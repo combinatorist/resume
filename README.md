@@ -120,7 +120,7 @@
 
 - CASA (Court Appointed Special Advocates) gets high-risk neglect / abuse cases triaged from juvenile court.
 - Then, the organization (usually county level) matches 1 volunteer to each case / family.
-- The court gives the volunteer access to all records for the child to mentor, monitor, and support them.
+- The court gives the volunteer access to all the child's records to mentor, monitor, and support them.
 - The court solicits our official recommendation about the child's best interest for a permanent placement.
 - Our presence often leads to greater accountability over the many fragmented organizations that serve the family.
 
@@ -140,18 +140,18 @@ from Seattle Pacific University; Seattle, Washington (June 2013)
 - Graph Theory
 - Programming (C++)
 - Prob. & Statistics (R)
--	Linear Algebra
+- Linear Algebra
 - Math Modeling (Maple)
 
 ## Awards & Activities
 - Who’s Who Among Students in American Universities & Colleges
-- Study abroad at the University of Oxford, England
+- Study abroad at the University of Oxford, England (Philosophy of Mathematics)
 - University Scholars (4-year Honors Program w/ thesis)
 - Trustees’ Scholar Award
 
 ## Big Data XSeries Certificate
 (BerkeleyX: June – August 2015)
-- Courses in Data Mining, Analysis, & Machine Learning using pySpark (i.e. Python Spark, the “new” Hadoop)
+- Courses in Data Mining, Analysis, & Machine Learning using pySpark (i.e. Python Spark)
 ---
 # Mathematics Experience
 ## Independent Senior Project Researcher in Mathematics
