@@ -4,7 +4,7 @@
 [Github](https://github.com/combinatorist) |
 [Stack Overflow](https://stackoverflow.com/users/5555637/combinatorist) |
 [Code for Nashville](http://www.codefornashville.org/#team) |
-[Exercism](https://exercism.io/profiles/combinatorist)
+[Twitter](https://twitter.com/combinatorist)
 
 ---
 # Highlights
