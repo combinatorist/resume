@@ -8,16 +8,32 @@
 
 ---
 # Highlights
-- Independent, innovative, and influential Data Engineer (also Data Science, Analysis, & "serverless" Cloud)
+- Independent, innovative, and influential Data Consultant (also Engineering, Science, Analysis, & Devops Cloud)
 - A technical leader, mentor, and organizer (Code for Nashville Lead; training, and consulting for coworkers)
-- Reputation for driving new technologies, thinking critically, and communicating well to all levels of the business
-- 4 yrs. of Big Data Engineering experience (Spark, Scala, Python, AWS EMR, DynamoDB, Presto, Hive, Impala, YARN, Linux)
+- 2 yrs. of volunteer non-profit leadership and community organizing around open data and civic technology
+- 6 yrs. of Big Data Engineering experience (Spark, Scala, Python, AWS EMR, DynamoDB, Presto, Hive, Impala, YARN, Linux)
 - 4 yrs. of Data Science & Analysis experience (SQL, Python, Spark, Scala, R, Jupyter)
 - 3 yrs. of independent study, research, and public speaking experience in mathematics and analytic philosophy
 ---
 # Professional Experience
+## Interim Executive Director
+(Code for Nashville: May 2019 - Present)
+- We are an all-volunteer non-profit doing public interest data and software projects for the city and community.
+- I decided going into 2020 to take executive leadership to reboot the organization into something more sustainable.
+- I am trying to secure our first grants or contracts, develop a board, and make a clear and equitable path to leadership.
+- I had been a volunteer on our IncluCivics.org project and then spent a year as the Community Engagement & Diversity Lead.
+- I contribute directly to projects as needed and maintain our website (Jekyll, and Hugo), twitter profile, etc.
+
+## Independent Data Consultant
+(September 2019 - Present)
+- I registered as an independent data consultant so I can contribute to a wider variety of mission-driven projects.
+- I only consult half-time so I can spend the other half running Code for Nashville (non-profit, above).
+- My primary client is AxialHealthcare as a Data Engineer (maintaining Insight analytics pipeline and reference data).
+- I have a series of secondary contracts with a focus on government, civic, and non-profit, and research institutions.
+- For example, I did a subcontract for the NYC Mayor's Office of Data Analytics under Bloom.
+
 ## Data Engineer ("Data Integration Developer")
-(AxialHealthcare: March 2017 - Present)
+(AxialHealthcare: March 2017 - August 2019)
 - Switched to Data Architecture Team started by new Enterprise Data Architect
 - Maintained code ownership for 'axialInsight' product, formerly called "Core Analytics" engine
 - Designed, rebuilt, and optimized axialInsight with Spark Scala on AWS EMR (migrated from Google Big Query)
@@ -87,7 +103,7 @@
 ---
 # Volunteer Experience
 ## Community Outreach & Diversity Lead
-(Code for Nashville: June 2018-Present)
+(Code for Nashville: June 2018-April 2019)
 - Helping define the organization's future as well as this new role
 - Serving to make sure our community of civic hackers is "open", not just technically but also socially
 - Negotiating and defining new projects with outside community partners
