@@ -22,7 +22,7 @@
 - I decided going into 2020 to take executive leadership to reboot the organization into something more sustainable.
 - I am trying to secure our first grants or contracts, develop a board, and make a clear and equitable path to leadership.
 - I had been a volunteer on our IncluCivics.org project and then spent a year as the Community Engagement & Diversity Lead.
-- I contribute directly to projects as needed and maintain our website (Jekyll, and Hugo), twitter profile, etc.
+- I contribute directly to projects as needed and maintain our website (Jekyll, and Hugo), Twitter profile, etc.
 
 ## Independent Data Consultant
 (September 2019 - Present)
