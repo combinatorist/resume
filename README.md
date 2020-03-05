@@ -30,7 +30,7 @@
 - I only consult half-time so I can spend the other half running Code for Nashville (non-profit, above).
 - My primary client is AxialHealthcare as a Data Engineer (maintaining Insight analytics pipeline and reference data).
 - I have a series of secondary contracts with a focus on government, civic, and non-profit, and research institutions.
-- For example, I did a subcontract for the NYC Mayor's Office of Data Analytics under Bloom.
+- For example, I did a subcontract under Bloom (govbloom.com) for the NYC Mayor's Office of Data Analytics (February 2020).
 
 ## Data Engineer ("Data Integration Developer")
 (AxialHealthcare: March 2017 - August 2019)
