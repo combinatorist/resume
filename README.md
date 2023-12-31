@@ -1,38 +1,50 @@
-# Timothy (Perisho) Eccleston
-
-[LinkedIn](https://www.linkedin.com/in/timothyperishoeccleston/) |
-[Github](https://github.com/combinatorist) |
-[Stack Overflow](https://stackoverflow.com/users/5555637/combinatorist) |
-[Code for Nashville](http://www.codefornashville.org/#team) |
-[Twitter](https://twitter.com/combinatorist)
+# Tim Eccleston
+timothy.perisho.eccleston@gmail.com | (425)387-0074 | Last Modified: 2023-12-28
 
 ---
 # Highlights
-- Independent, innovative, and influential Data Consultant (also Engineering, Science, Analysis, & Devops Cloud)
-- A technical leader, mentor, and organizer (Code for Nashville Lead; training, and consulting for coworkers)
-- 2 yrs. of volunteer non-profit leadership and community organizing around open data and civic technology
-- 6 yrs. of Big Data Engineering experience (Spark, Scala, Python, AWS EMR, DynamoDB, Presto, Hive, Impala, YARN, Linux)
+- Independent, innovative, and productive Senior Data Consultant (Engineer, DBA, Scientist, Analyst)
+- A technical leader (year long data ingestion project, training a team of 5 developers)
+- 8 yrs. of Big Data Engineering experience (Spark, Scala, Python, AWS EMR, DynamoDB, Presto, Hive, etc)
+- 4 yrs. of volunteer non-profit leadership and community organizing around open data and civic technology
 - 4 yrs. of Data Science & Analysis experience (SQL, Python, Spark, Scala, R, Jupyter)
 - 3 yrs. of independent study, research, and public speaking experience in mathematics and analytic philosophy
 ---
 # Professional Experience
-## Interim Executive Director
-(Code for Nashville: May 2019 - Present)
-- We are an all-volunteer non-profit doing public interest data and software projects for the city and community.
-- I decided going into 2020 to take executive leadership to reboot the organization into something more sustainable.
-- I am trying to secure our first grants or contracts, develop a board, and make a clear and equitable path to leadership.
-- I had been a volunteer on our IncluCivics.org project and then spent a year as the Community Engagement & Diversity Lead.
-- I contribute directly to projects as needed and maintain our website (Jekyll, and Hugo), Twitter profile, etc.
 
 ## Independent Data Consultant
 (September 2019 - Present)
 - I registered as an independent data consultant so I can contribute to a wider variety of mission-driven projects.
-- I only consult half-time so I can spend the other half running Code for Nashville (non-profit, above).
-- My primary client is AxialHealthcare as a Data Engineer (maintaining Insight analytics pipeline and reference data).
-- I have a series of secondary contracts with a focus on government, civic, and non-profit, and research institutions.
-- For example, I did a subcontract under Bloom (govbloom.com) for the NYC Mayor's Office of Data Analytics (February 2020).
+- I help people and organizations strategize, design, develop, and manage data solutions at any scale.
+- My contracts focus on government, civic, non-profit, and research institutions.
+- E.g. a subcontract under Bloom (govbloom.com) for the NYC Mayor's Office of Data Analytics (February 2020).
 
-## Data Engineer ("Data Integration Developer")
+## On-Call Data Engineering Consultant
+(Wayspring: Sep 2019 - Present)
+- Responsible for any issues or updates concerning my "Insight" App (Apache Spark Data Analytics pipeline)
+- Consulting and researching new project ideas for the Senior Director of Data Services
+- Helping other data team members with ad hoc projects and blockers as necessary
+- Maintenance and updates to healthcare coding reference database
+- **Skills:** Python (Programming Language) · Scala · Databases · Apache Spark
+
+## Lead Data Engineer (Contract)
+(Wayspring: Jan 2023 - Nov 2023)
+- Designed and built an Apache Spark Scala app to ingest healthcare claims data at scale.
+- Trained a team of 5 developers in Apache Spark SQL and Scala with Delta Lake and git.
+- Automated migration and reinterpretation of PostgreSql procedures as sql files run through Apache Spark SQL.
+- Maintained project roadmap, priorities, and estimates for team in gap between project managers.
+- **Skills:** Technical Leadership · Scala · Apache Spark
+## Founder / Convener (Nonprofit, part time)
+(Open Tennessee: Jun 2020 - Nov 2023)
+- Independent non-profit with a few civic and open data projects (now dormant post-pandemic).
+## Interim Executive Director
+(Code for Nashville: May 2019 - February 2023)
+- Led an all-volunteer non-profit doing public interest data and software projects for the city and community
+- Took executive leadership in 2020 to reboot the organization into something more sustainable
+- Volunteered on our IncluCivics.org project and then spent a year as the Community Engagement & Diversity Lead
+- Contributed directly to projects as needed and maintained our website (Jekyll, and Hugo), Twitter profile, etc
+
+## Data Engineer
 (AxialHealthcare: March 2017 - August 2019)
 - Switched to Data Architecture Team started by new Enterprise Data Architect
 - Maintained code ownership for 'axialInsight' product, formerly called "Core Analytics" engine
