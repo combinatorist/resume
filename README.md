@@ -89,8 +89,10 @@ timothy.perisho.eccleston@gmail.com | (425)387-0074 | Last Modified: 2023-12-28
 - Created Data Science Roadmap to build from basic data collection up to Machine Learning
 - Worked with a pharmacist expert on predictive Opioid Overdose Model
 
+%%
 ## Personal Break
 (Marriage, honeymoon, and moving: May 2015 - August 2015)
+%%
 
 ## Associate Data Analyst
 (Infospace/Blucora: January 2014 – April 2015)
