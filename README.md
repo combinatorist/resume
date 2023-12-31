@@ -34,15 +34,6 @@ timothy.perisho.eccleston@gmail.com | (425)387-0074 | Last Modified: 2023-12-28
 - Automated migration and reinterpretation of PostgreSql procedures as sql files run through Apache Spark SQL.
 - Maintained project roadmap, priorities, and estimates for team in gap between project managers.
 - **Skills:** Technical Leadership · Scala · Apache Spark
-## Founder / Convener (Nonprofit, part time)
-(Open Tennessee: Jun 2020 - Nov 2023)
-- Independent non-profit with a few civic and open data projects (now dormant post-pandemic).
-## Interim Executive Director
-(Code for Nashville: May 2019 - February 2023)
-- Led an all-volunteer non-profit doing public interest data and software projects for the city and community
-- Took executive leadership in 2020 to reboot the organization into something more sustainable
-- Volunteered on our IncluCivics.org project and then spent a year as the Community Engagement & Diversity Lead
-- Contributed directly to projects as needed and maintained our website (Jekyll, and Hugo), Twitter profile, etc
 
 ## Data Engineer
 (AxialHealthcare: March 2017 - August 2019)
@@ -116,6 +107,15 @@ timothy.perisho.eccleston@gmail.com | (425)387-0074 | Last Modified: 2023-12-28
 - Promoted from Assistant to Supervisor, trained 4 student workers, and increased productivity 2.3x YOY
 ---
 # Volunteer Experience
+## Founder / Convener (Nonprofit, part time)
+(Open Tennessee: Jun 2020 - Nov 2023)
+- Independent non-profit with a few civic and open data projects (now dormant post-pandemic).
+## Interim Executive Director
+(Code for Nashville: May 2019 - February 2023)
+- Led an all-volunteer non-profit doing public interest data and software projects for the city and community
+- Took executive leadership in 2020 to reboot the organization into something more sustainable
+- Volunteered on our IncluCivics.org project and then spent a year as the Community Engagement & Diversity Lead
+- Contributed directly to projects as needed and maintained our website (Jekyll, and Hugo), Twitter profile, etc
 ## Community Outreach & Diversity Lead
 (Code for Nashville: June 2018-April 2019)
 - Helping define the organization's future as well as this new role
