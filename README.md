@@ -25,15 +25,15 @@ timothy.perisho.eccleston@gmail.com | (425)387-0074 | Last Modified: 2023-12-31
 - Consulting and researching new project ideas for the Senior Director of Data Services
 - Helping other data team members with ad hoc projects and blockers as necessary
 - Maintenance and updates to healthcare coding reference database
-- **Skills:** Python (Programming Language) · Scala · Databases · Apache Spark
+- **Skills:** Databases · Python · Apache Spark · Scala
 
 ## Lead Data Engineer (Contract)
 (AxialHealthcare/Wayspring: Jan 2023 - Nov 2023)
-- Designed and built an Apache Spark Scala app to ingest healthcare claims data at scale.
-- Trained a team of 5 developers in Apache Spark SQL and Scala with Delta Lake and git.
+- Designed and built an Apache Spark Scala data pipeline to ingest healthcare claims data at scale.
+- Trained a team of 5 developers in Apache Spark SQL and Scala with Delta Lake and Git.
 - Automated migration and reinterpretation of PostgreSql procedures as sql files run through Apache Spark SQL.
 - Maintained project roadmap, priorities, and estimates for team in gap between project managers.
-- **Skills:** Technical Leadership · Scala · Apache Spark  · PostrgreSQL
+- **Skills:** Technical Leadership · Apache Spark · SQL · Scala  · PostgreSQL
 
 ## Data Engineer
 (AxialHealthcare/Wayspring: March 2017 - August 2019)
@@ -48,34 +48,34 @@ timothy.perisho.eccleston@gmail.com | (425)387-0074 | Last Modified: 2023-12-31
 - Initiated and led Serverless Architecture (AWS API Gateway, Lambda Functions, DynamoDB) for company
 - Designed serverless RESTful JSON backend API to manage metadata for Data Lake in NoSql store DynamoDB (cf. Cassandra)
 - Influenced many cross-functional, design, data architecture, and SDLC meetings and decisions
-- Reported code changes and impact to business external teams and Security Team (SOC)
+- Reported code changes and impact to business and Security (SOC) Teams
 - Attended AWS RE:Invent Conference 2017, representing company's Data Team
 
 ## Data Scientist
 (AxialHealthcare/Wayspring: September 2015 - February 2017)
 - Hired to do Data Science in early stages of Healthcare startup (employee \#10)
 - Worked with patient and practitioner data as well as medical and pharmacy claims
-- Found over-worked Data Scientists manually delivering ad hoc SQL results directly to clients
-- Determined greatest need was SDLC, not Data Science
+- Found chaotic Data Scientist team manually delivering ad hoc SQL results directly to clients
+- Determined greatest need was software best practices, not Data Science
   - Fixed over 40 (often intricate) analytical / healthcare data quality bugs
   - Completed over 100 analytical, design, and process improvements
 
-###### (Responsibilities as *de facto* Data Engineering Lead)
+###### (acting as *de facto* Data Engineering Lead)
 - Conceived & built tools to parse, plan, and run arbitrary SQL queries en masse (Python, Celery, Redis (cf. Kafka), RegEx)
-- Advocated, demonstrated, and trained team in Git, Python, SDLC, SQL, and RDB design
+- Advocated, demonstrated, and trained team in Git, Python, SDLC, SQL, and RDBMS design
 - Assumed ownership and productionalized centralized analytics pipeline
-- Maintained Continuous Integration test suite in Jenkins
+- Planned major redesign of analytics engine, creating simplified API layer
 - Defined releases and reported methodological / analytical impact to President and leadership
-- Planned major redesign of engine, creating simplified API layer
+- Maintained Continuous Integration test suite in Jenkins
 - Analyzed risk and scope of switching from GBQ to AWS Redshift, Postgres, or Apache Spark
 - Created tests (SQL & Python) and conducted technical interviews for Data Science & QA candidates
 
-###### (Responsibilities as Data Scientist)
+###### (acting as traditional Data Scientist)
 - Advised Product team on statistical aspects of web UI
 - Helped negotiate short and long term improvements to metrics in our analytics product
 - Researched and developed backend analytics for our surgery recovery predictive model MVP
 - Created Data Science Roadmap to build from basic data collection up to Machine Learning
-- Worked with a pharmacist expert on predictive Opioid Overdose Model
+- Collaborated with a pharmacy SME on predictive Opioid Overdose Model
 
 %%
 ## Personal Break
@@ -121,7 +121,7 @@ timothy.perisho.eccleston@gmail.com | (425)387-0074 | Last Modified: 2023-12-31
 
 ## Coder / Collaborator
 (Code for Nashville: January 2017-May 2018)
-- Volunteered at the Code for Nashville chapter of the Code for America Brigade Network
+- Volunteered with the Nashville chapter of the Code for America Brigade Network
 - Piloted a serverless architecture with Terraform on AWS to reduce maintenance and cost
 - Helped initiate, vision, and negotiate reorganization and revitalization, which led to formation of new roles (above)
 
@@ -136,7 +136,7 @@ timothy.perisho.eccleston@gmail.com | (425)387-0074 | Last Modified: 2023-12-31
 
 ## Various Math & Science Tutoring Roles
 (Seattle: January 2008 - April 2015)
-- Paid tutoring with high school and college and volunteer work with elementary and high school students
+- Paid tutoring with high school and college and volunteer tutoring with elementary and high school students
 
 ---
 # Education
@@ -165,7 +165,7 @@ from Seattle Pacific University; Seattle, Washington (June 2013)
 ---
 # Mathematics Experience
 ## Independent Senior Project Researcher in Mathematics
-(Seattle Pacific University: 2013)
+(Seattle Pacific University: January 2013 - June 2013, and on-going)
 - Researched current methods & posed new questions in Graph Ramsey Theory, a branch of discrete mathematics
 - Carefully selected & programmed strategic computations (in Maple) to help generate original conjectures
 - Proved 2 original math theorems through intense critical thinking, problem solving, and conceptual organization
@@ -177,7 +177,7 @@ from Seattle Pacific University; Seattle, Washington (June 2013)
 - Researched “potential fields” method for robotic path-planning
 - Wrote my own path-planning algorithm from scratch with visual simulation & output in Maple (cf. Mathematica)
 - Tested my algorithm against randomly-generated obstacles (Maple)
-- Revised my algorithm with increasingly realistic assumptions and presented results to my class
+- Revised my algorithm with increasingly realistic assumptions and presented results to peers
 
 ## Co-Author in the Mathematical Contest in Modeling
 (COMAP: 2013)
