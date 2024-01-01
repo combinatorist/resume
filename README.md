@@ -45,8 +45,8 @@ timothy.perisho.eccleston@gmail.com | (425)387-0074 | Last Modified: 2023-12-31
 - Frequently consulted for and mentored across teams on Hadoop, Git, SDLC, Database / Data Pipeline design, etc
 - Frequently discussed compatibility and integration of our Hadoop-based apps with traditional apps
 - Regularly given projects to pilot / test new technologies
-- Pioneered "Code as Infrastructure" (Terraform) on Data Architecture team
-- Pioneered "Serverless Architecture" (AWS API Gateway, Lambda Functions, DynamoDB) at Axial
+- Initiated "Code as Infrastructure" (Terraform) on Data Architecture team
+- Initiated "Serverless Architecture" (AWS API Gateway, Lambda Functions, DynamoDB) at Axial
 - Designed serverless RESTful JSON backend API to manage metadata for Data Lake in NoSql store DynamoDB (cf. Cassandra)
 - Influenced many cross-functional, design, data architecture, and SDLC meetings and decisions
 - Reported code changes and impact to business and SOC
