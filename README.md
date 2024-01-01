@@ -143,7 +143,7 @@ timothy.perisho.eccleston@gmail.com | (425)387-0074 | Last Modified: 2023-12-31
 #### Seattle Pacific University
 B.S. Mathematics (3.69)
 B.A. Analytic Philosophy (3.63)
-from Seattle Pacific University; Seattle, Washington (June 2013)
+Seattle, Washington (June 2013)
 (2300 SAT)
 ###### Relevant Coursework
 - Graph Theory
