@@ -140,21 +140,20 @@ timothy.perisho.eccleston@gmail.com | (425)387-0074 | Last Modified: 2023-12-31
 
 ---
 # Education
-2300 SAT & 85th percentile (nation-wide) ETS Math Major Field Test
-
-B.S. Mathematics (3.69)  	
+#### Seattle Pacific University
+B.S. Mathematics (3.69)
 B.A. Analytic Philosophy (3.63)
 from Seattle Pacific University; Seattle, Washington (June 2013)
-
-#### Relevant Coursework
+(2300 SAT)
+###### Relevant Coursework
 - Graph Theory
 - Programming (C++)
 - Prob. & Statistics (R)
 - Linear Algebra
 - Math Modeling (Maple)
 
-#### Awards & Activities
-- Who’s Who Among Students in American Universities & Colleges
+###### Awards & Activities
+- Outranked 85% of math majors nationally on ETS Math Major Field Test
 - Study abroad at the University of Oxford, England (Philosophy of Mathematics)
 - University Scholars (4-year Honors Program w/ thesis)
 - Trustees’ Scholar Award
