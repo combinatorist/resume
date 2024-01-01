@@ -3,59 +3,56 @@ timothy.perisho.eccleston@gmail.com | (425)387-0074 | Last Modified: 2023-12-31
 
 ---
 # Highlights
-- Independent, innovative, and productive Senior Data Consultant (Engineer, DBA, Scientist, Analyst)
-- A technical leader (year long data ingestion project, training a team of 5 developers)
-- 8 yrs. of Big Data Engineering experience (Spark, Scala, Python, AWS EMR, DynamoDB, Presto, Hive, etc)
+- Independent, innovative, and productive Senior Data Consultant/Tech Lead (Engineer, DBA, Scientist, Analyst)
+- 9 yrs. of Big Data Engineering experience (Apache Spark, Scala, AWS EMR, DynamoDB, Presto, Hive, etc)
+- 8 yrs. working with sensitive and highly regulated healthcare data (HIPAA) including government contracts
+- 4 yrs. of Data Science & Analysis experience (SQL, Python, R, Jupyter)
 - 4 yrs. of volunteer non-profit leadership and community organizing around open data and civic technology
-- 4 yrs. of Data Science & Analysis experience (SQL, Python, Spark, Scala, R, Jupyter)
 - 3 yrs. of independent study, research, and public speaking experience in mathematics and analytic philosophy
 ---
 # Professional Experience
 
 ## Independent Data Consultant
-(September 2019 - Present)
+(Freelance: September 2019 - Present)
 - I registered as an independent data consultant so I can contribute to a wider variety of mission-driven projects.
 - I help people and organizations strategize, design, develop, and manage data solutions at any scale.
 - My contracts focus on government, civic, non-profit, and research institutions.
 - E.g. a subcontract under Bloom (govbloom.com) for the NYC Mayor's Office of Data Analytics (February 2020).
 
 ## On-Call Data Engineering Consultant
-(Wayspring: Sep 2019 - Present)
-- Responsible for any issues or updates concerning my "Insight" App (Apache Spark Data Analytics pipeline)
+(AxialHealthcare/Wayspring: Sep 2019 - Present)
+- Responsible for any issues or updates concerning our Apache Spark Data Analytics pipeline
 - Consulting and researching new project ideas for the Senior Director of Data Services
 - Helping other data team members with ad hoc projects and blockers as necessary
 - Maintenance and updates to healthcare coding reference database
 - **Skills:** Python (Programming Language) · Scala · Databases · Apache Spark
 
 ## Lead Data Engineer (Contract)
-(Wayspring: Jan 2023 - Nov 2023)
+(AxialHealthcare/Wayspring: Jan 2023 - Nov 2023)
 - Designed and built an Apache Spark Scala app to ingest healthcare claims data at scale.
 - Trained a team of 5 developers in Apache Spark SQL and Scala with Delta Lake and git.
 - Automated migration and reinterpretation of PostgreSql procedures as sql files run through Apache Spark SQL.
 - Maintained project roadmap, priorities, and estimates for team in gap between project managers.
-- **Skills:** Technical Leadership · Scala · Apache Spark
+- **Skills:** Technical Leadership · Scala · Apache Spark  · PostrgreSQL
 
 ## Data Engineer
-(AxialHealthcare: March 2017 - August 2019)
+(AxialHealthcare/Wayspring: March 2017 - August 2019)
 - Switched to Data Architecture Team started by new Enterprise Data Architect
-- Maintained code ownership for 'axialInsight' product, formerly called "Core Analytics" engine
-- Designed, rebuilt, and optimized axialInsight with Spark Scala on AWS EMR (migrated from Google Big Query)
-- Designed, built, documented, and trained others in novel time interval libraries for accuracy and performance
-- Piloted use of Scala Build Tool (cf. Maven, Ant)
-- Frequently consulted for and mentored across teams on Hadoop, Git, SDLC, Database / Data Pipeline design, etc
-- Frequently discussed compatibility and integration of our Hadoop-based apps with traditional apps
+- Maintained code ownership for legacy monthly analytics pipeline built in Google Big Query
+- Redesigned, improved, and migrated analytics pipeline to Spark Scala on AWS EMR
+- Designed, built, documented, and trained others in custom time interval libraries for accuracy and performance
+- Initiated use of Scala Build Tool (cf. Maven, Ant)
+- Frequently mentored others on Hadoop, Git, SDLC, Database / Data Pipeline design, etc
 - Regularly given projects to pilot / test new technologies
-- Initiated "Code as Infrastructure" (Terraform) on Data Architecture team
-- Initiated "Serverless Architecture" (AWS API Gateway, Lambda Functions, DynamoDB) at Axial
+- Initiated and led Code as Infrastructure (Terraform) on Data Architecture team
+- Initiated and led Serverless Architecture (AWS API Gateway, Lambda Functions, DynamoDB) for company
 - Designed serverless RESTful JSON backend API to manage metadata for Data Lake in NoSql store DynamoDB (cf. Cassandra)
 - Influenced many cross-functional, design, data architecture, and SDLC meetings and decisions
-- Reported code changes and impact to business and SOC
-- Began study for AWS Solutions Associate Certificate
-- Attended AWS RE:Invent Conference 2017
-- Began advanced tech evaluation and design work on a conversion to Apache Spark Streaming, Beam, or Flink
+- Reported code changes and impact to business external teams and Security Team (SOC)
+- Attended AWS RE:Invent Conference 2017, representing company's Data Team
 
 ## Data Scientist
-(AxialHealthcare: September 2015 - February 2017)
+(AxialHealthcare/Wayspring: September 2015 - February 2017)
 - Hired to do Data Science in early stages of Healthcare startup (employee \#10)
 - Worked with patient and practitioner data as well as medical and pharmacy claims
 - Found over-worked Data Scientists manually delivering ad hoc SQL results directly to clients
@@ -63,20 +60,20 @@ timothy.perisho.eccleston@gmail.com | (425)387-0074 | Last Modified: 2023-12-31
   - Fixed over 40 (often intricate) analytical / healthcare data quality bugs
   - Completed over 100 analytical, design, and process improvements
 
-### Acting as Data Science Engineer / Technical Lead
+###### (Responsibilities as *de facto* Data Engineering Lead)
 - Conceived & built tools to parse, plan, and run arbitrary SQL queries en masse (Python, Celery, Redis (cf. Kafka), RegEx)
-- Advocated, demonstrated, and trained in Git, Python, SDLC, SQL, and RDB design for team
-- Earned ownership and began productionalization of "Core Analytics" engine (axialInsight)
+- Advocated, demonstrated, and trained team in Git, Python, SDLC, SQL, and RDB design
+- Assumed ownership and productionalized centralized analytics pipeline
 - Maintained Continuous Integration test suite in Jenkins
 - Defined releases and reported methodological / analytical impact to President and leadership
-- Planned major "Core Analytics" engine redesign, creating simplified API layer
+- Planned major redesign of engine, creating simplified API layer
 - Analyzed risk and scope of switching from GBQ to AWS Redshift, Postgres, or Apache Spark
-- Prepared and conducted technical interviews for Data Science & QA (SQL & Python)
+- Created tests (SQL & Python) and conducted technical interviews for Data Science & QA candidates
 
-### Acting as Data Scientist
+###### (Responsibilities as Data Scientist)
 - Advised Product team on statistical aspects of web UI
-- Helped negotiate short and long term improvements to our "Core Analytics" metrics
-- Researched and developed backend analytics for our "axialRISE" product MVP
+- Helped negotiate short and long term improvements to metrics in our analytics product
+- Researched and developed backend analytics for our surgery recovery predictive model MVP
 - Created Data Science Roadmap to build from basic data collection up to Machine Learning
 - Worked with a pharmacist expert on predictive Opioid Overdose Model
 
@@ -114,19 +111,18 @@ timothy.perisho.eccleston@gmail.com | (425)387-0074 | Last Modified: 2023-12-31
 (Code for Nashville: May 2019 - February 2023)
 - Led an all-volunteer non-profit doing public interest data and software projects for the city and community
 - Took executive leadership in 2020 to reboot the organization into something more sustainable
-- Volunteered on our IncluCivics.org project and then spent a year as the Community Engagement & Diversity Lead
 - Contributed directly to projects as needed and maintained our website (Jekyll, and Hugo), Twitter profile, etc
 ## Community Outreach & Diversity Lead
 (Code for Nashville: June 2018-April 2019)
 - Helping define the organization's future as well as this new role
-- Serving to make sure our community of civic hackers is "open", not just technically but also socially
+- Serving to make sure our community of civic hackers is open, not just technically but also socially
 - Negotiating and defining new projects with outside community partners
 - Mentoring and advising volunteer project leads on technical direction and team management
 
 ## Coder / Collaborator
 (Code for Nashville: January 2017-May 2018)
-- Volunteered at the Code for Nashville chapter of the Code for America Brigade
-- Helped us move our apps to a serverless architecture with Terraform on AWS to reduce maintenance and cost
+- Volunteered at the Code for Nashville chapter of the Code for America Brigade Network
+- Piloted a serverless architecture with Terraform on AWS to reduce maintenance and cost
 - Helped initiate, vision, and negotiate reorganization and revitalization, which led to formation of new roles (above)
 
 ## Court Appointed Special Advocate
@@ -179,7 +175,7 @@ from Seattle Pacific University; Seattle, Washington (June 2013)
 ## Individual Researcher in Mathematical Modeling
 (Seattle Pacific University: Winter 2013)
 - Researched “potential fields” method for robotic path-planning
-- Wrote my own path-planning algorithm from scratch with visual simulation & output in Maple (similar to Mathematica)
+- Wrote my own path-planning algorithm from scratch with visual simulation & output in Maple (cf. Mathematica)
 - Tested my algorithm against randomly-generated obstacles (Maple)
 - Revised my algorithm with increasingly realistic assumptions and presented results to my class
 
